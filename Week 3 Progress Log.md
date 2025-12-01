@@ -1,6 +1,6 @@
 ## Week 3 Progress Log
 **Project:** *Training a Large Model Using Unity Perception Images*  
-**Dates:** Nov 13, 2025 – Nov 19, 2025
+**Dates:** Nov 17, 2025 – Nov 23, 2025
 
 ---
 
